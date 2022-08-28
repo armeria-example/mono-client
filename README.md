@@ -13,8 +13,9 @@ git pull origin main
 ./gradlew generateProto
 ```
 
+# test
 
-# client test
+### client test
 ```
 curl -XPOST -H 'content-type: application/json; charset=utf-8' http://127.0.0.1:8080/api/v1/user
 ```
