@@ -18,3 +18,8 @@ git pull origin main
 ```
 curl -XPOST -H 'content-type: application/json; charset=utf-8' http://127.0.0.1:8080/api/v1/user
 ```
+
+# info
+- [idl](https://github.com/armeria-example/mono-idl)
+- [server](https://github.com/armeria-example/mono-server)
+- [client](https://github.com/armeria-example/mono-client)
